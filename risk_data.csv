@@ -1,0 +1,1001 @@
+Location,Time,Activity,Item_Type,History_Of_Loss,Risk_Level
+Colombo,11,stationary,mobile phone,FALSE,Unknown
+Galle Face,18,walking,wallet,FALSE,High
+Pettah Bus Stand,6,driving,mobile phone,TRUE,Unknown
+Galle,9,stationary,wallet,FALSE,Unknown
+Temple of the Tooth,22,stationary,backpack,TRUE,Moderate
+Jaffna,15,stationary,keys,TRUE,Unknown
+Fort Railway Station,22,driving,mobile phone,FALSE,Unknown
+Pettah Bus Stand,16,walking,wallet,FALSE,Unknown
+Temple of the Tooth,2,stationary,water bottle,FALSE,Unknown
+Viharamahadevi Park,18,stationary,keys,FALSE,Moderate
+Jaffna,0,walking,water bottle,FALSE,Unknown
+Colombo,7,driving,mobile phone,TRUE,Unknown
+Jaffna,22,driving,water bottle,TRUE,Unknown
+Katunayake Airport,6,walking,water bottle,FALSE,High
+Galle Face,8,driving,wallet,TRUE,Unknown
+Majestic City,12,walking,wallet,FALSE,Unknown
+Gangaramaya Temple,14,stationary,wallet,FALSE,Unknown
+Jaffna,20,stationary,sunglasses,FALSE,Unknown
+Gangaramaya Temple,13,walking,mobile phone,TRUE,Moderate
+Galle,6,walking,water bottle,FALSE,Unknown
+Fort Railway Station,18,stationary,keys,FALSE,High
+Viharamahadevi Park,7,walking,ID card,TRUE,Moderate
+Majestic City,16,walking,wallet,TRUE,Unknown
+Jaffna,9,stationary,keys,TRUE,Unknown
+Katunayake Airport,8,stationary,water bottle,FALSE,Unknown
+Liberty Plaza,23,driving,wallet,FALSE,Unknown
+Kandy,5,walking,sunglasses,FALSE,Unknown
+Temple of the Tooth,11,driving,keys,FALSE,Unknown
+Kandy,21,walking,wallet,TRUE,Unknown
+Gangaramaya Temple,18,stationary,keys,TRUE,Moderate
+Liberty Plaza,12,stationary,mobile phone,FALSE,Moderate
+Pettah Bus Stand,5,stationary,sunglasses,FALSE,Unknown
+Fort Railway Station,0,driving,mobile phone,FALSE,Unknown
+Viharamahadevi Park,1,driving,keys,FALSE,Unknown
+Jaffna,21,walking,wallet,TRUE,Unknown
+Fort Railway Station,14,walking,ID card,TRUE,Unknown
+Liberty Plaza,3,walking,water bottle,TRUE,Unknown
+Kandy,21,driving,water bottle,TRUE,Unknown
+Pettah Bus Stand,15,walking,mobile phone,FALSE,Unknown
+Galle,4,driving,wallet,TRUE,Unknown
+Jaffna,1,driving,ID card,FALSE,Unknown
+Galle,16,stationary,backpack,FALSE,Low
+Kandy,16,walking,sunglasses,FALSE,Unknown
+Katunayake Airport,5,stationary,ID card,TRUE,Unknown
+Viharamahadevi Park,0,walking,wallet,TRUE,Unknown
+Liberty Plaza,5,driving,sunglasses,FALSE,Unknown
+Fort Railway Station,12,walking,backpack,TRUE,Unknown
+Kandy,2,driving,wallet,TRUE,Unknown
+Temple of the Tooth,3,driving,mobile phone,TRUE,Moderate
+Pettah Bus Stand,3,stationary,wallet,FALSE,Unknown
+Majestic City,16,walking,wallet,FALSE,Unknown
+Galle Face,17,driving,wallet,FALSE,Unknown
+Pettah Bus Stand,16,walking,keys,TRUE,Unknown
+Temple of the Tooth,23,driving,ID card,TRUE,Moderate
+Fort Railway Station,21,stationary,backpack,FALSE,Low
+Jaffna,16,driving,water bottle,TRUE,Unknown
+Galle,10,driving,mobile phone,FALSE,Unknown
+Gangaramaya Temple,23,walking,sunglasses,FALSE,Unknown
+Colombo,10,walking,keys,FALSE,Unknown
+Kandy,14,walking,water bottle,TRUE,Unknown
+Pettah Bus Stand,22,driving,backpack,TRUE,Unknown
+Majestic City,12,stationary,backpack,TRUE,Low
+Kandy,22,stationary,water bottle,FALSE,Unknown
+Liberty Plaza,21,walking,wallet,FALSE,Unknown
+Galle,4,walking,wallet,FALSE,Unknown
+Jaffna,7,driving,water bottle,FALSE,Unknown
+Majestic City,17,driving,sunglasses,FALSE,Unknown
+Liberty Plaza,6,walking,backpack,FALSE,Moderate
+Pettah Bus Stand,22,stationary,wallet,FALSE,Unknown
+Colombo,22,walking,backpack,FALSE,Unknown
+Majestic City,11,walking,mobile phone,TRUE,Unknown
+Gangaramaya Temple,21,walking,wallet,TRUE,Moderate
+Viharamahadevi Park,13,driving,backpack,FALSE,Moderate
+Galle,4,walking,wallet,FALSE,Unknown
+Galle Face,0,stationary,water bottle,FALSE,Unknown
+Temple of the Tooth,11,driving,wallet,FALSE,Unknown
+Katunayake Airport,3,stationary,mobile phone,FALSE,Unknown
+Jaffna,5,walking,mobile phone,FALSE,Unknown
+Majestic City,11,walking,keys,TRUE,Unknown
+Liberty Plaza,0,walking,water bottle,TRUE,Unknown
+Colombo,12,stationary,water bottle,TRUE,Unknown
+Colombo,8,walking,keys,TRUE,Unknown
+Kandy,0,walking,wallet,TRUE,Unknown
+Liberty Plaza,13,driving,mobile phone,TRUE,Moderate
+Katunayake Airport,7,stationary,sunglasses,FALSE,Unknown
+Galle,4,driving,keys,TRUE,Unknown
+Temple of the Tooth,0,driving,wallet,TRUE,Moderate
+Liberty Plaza,20,walking,sunglasses,FALSE,Moderate
+Liberty Plaza,16,driving,backpack,FALSE,Moderate
+Liberty Plaza,0,stationary,wallet,FALSE,Unknown
+Galle,21,driving,keys,FALSE,Unknown
+Pettah Bus Stand,8,driving,sunglasses,TRUE,High
+Galle,7,stationary,keys,FALSE,Unknown
+Kandy,16,walking,mobile phone,TRUE,Unknown
+Liberty Plaza,9,stationary,mobile phone,TRUE,Moderate
+Pettah Bus Stand,8,stationary,wallet,TRUE,High
+Pettah Bus Stand,15,stationary,backpack,FALSE,Low
+Jaffna,0,walking,ID card,TRUE,Unknown
+Fort Railway Station,12,stationary,water bottle,TRUE,Unknown
+Katunayake Airport,4,walking,mobile phone,FALSE,High
+Fort Railway Station,7,walking,ID card,FALSE,Unknown
+Fort Railway Station,8,walking,backpack,FALSE,High
+Katunayake Airport,3,walking,keys,FALSE,High
+Temple of the Tooth,12,walking,mobile phone,TRUE,Moderate
+Gangaramaya Temple,1,stationary,backpack,TRUE,Moderate
+Colombo,4,driving,ID card,TRUE,Unknown
+Fort Railway Station,11,driving,water bottle,TRUE,Unknown
+Jaffna,3,stationary,water bottle,TRUE,Unknown
+Galle Face,19,driving,mobile phone,TRUE,Unknown
+Fort Railway Station,23,walking,ID card,TRUE,Unknown
+Pettah Bus Stand,5,walking,ID card,TRUE,Unknown
+Galle,8,driving,ID card,FALSE,Unknown
+Majestic City,1,stationary,sunglasses,FALSE,Unknown
+Kandy,21,driving,water bottle,TRUE,Unknown
+Katunayake Airport,11,stationary,water bottle,FALSE,Unknown
+Galle,23,walking,ID card,TRUE,Unknown
+Liberty Plaza,7,stationary,sunglasses,TRUE,Moderate
+Galle Face,6,walking,wallet,FALSE,High
+Temple of the Tooth,23,walking,ID card,FALSE,Unknown
+Gangaramaya Temple,15,walking,keys,FALSE,Unknown
+Temple of the Tooth,6,stationary,sunglasses,TRUE,Moderate
+Katunayake Airport,4,stationary,water bottle,TRUE,Unknown
+Pettah Bus Stand,6,stationary,wallet,FALSE,Unknown
+Galle Face,1,stationary,keys,TRUE,Unknown
+Galle,1,driving,ID card,TRUE,Unknown
+Fort Railway Station,16,driving,wallet,TRUE,Unknown
+Fort Railway Station,8,walking,sunglasses,FALSE,High
+Jaffna,4,driving,sunglasses,FALSE,Unknown
+Fort Railway Station,5,stationary,ID card,TRUE,Unknown
+Colombo,19,walking,sunglasses,TRUE,Unknown
+Gangaramaya Temple,6,driving,ID card,FALSE,Unknown
+Katunayake Airport,23,driving,sunglasses,TRUE,Unknown
+Temple of the Tooth,2,stationary,water bottle,FALSE,Unknown
+Colombo,4,driving,backpack,TRUE,Unknown
+Gangaramaya Temple,23,stationary,wallet,FALSE,Unknown
+Kandy,18,stationary,sunglasses,TRUE,Unknown
+Liberty Plaza,9,walking,ID card,FALSE,Moderate
+Colombo,10,walking,sunglasses,FALSE,Unknown
+Viharamahadevi Park,23,walking,keys,TRUE,Unknown
+Gangaramaya Temple,15,driving,wallet,FALSE,Unknown
+Majestic City,2,stationary,wallet,FALSE,Unknown
+Katunayake Airport,21,driving,ID card,TRUE,Unknown
+Gangaramaya Temple,4,stationary,backpack,TRUE,Moderate
+Galle,6,driving,sunglasses,TRUE,Unknown
+Galle Face,2,stationary,mobile phone,FALSE,Unknown
+Fort Railway Station,17,stationary,water bottle,TRUE,Unknown
+Kandy,16,walking,keys,TRUE,Unknown
+Temple of the Tooth,7,walking,water bottle,TRUE,Moderate
+Kandy,12,walking,mobile phone,FALSE,Unknown
+Katunayake Airport,19,driving,sunglasses,FALSE,Unknown
+Kandy,10,walking,wallet,TRUE,Unknown
+Fort Railway Station,1,driving,keys,TRUE,Unknown
+Fort Railway Station,3,stationary,water bottle,TRUE,Unknown
+Pettah Bus Stand,20,driving,backpack,TRUE,Unknown
+Liberty Plaza,2,walking,sunglasses,TRUE,Unknown
+Kandy,10,stationary,water bottle,TRUE,Unknown
+Gangaramaya Temple,0,walking,water bottle,FALSE,Unknown
+Gangaramaya Temple,10,driving,keys,TRUE,Moderate
+Fort Railway Station,6,driving,keys,TRUE,Unknown
+Galle Face,16,walking,water bottle,FALSE,High
+Katunayake Airport,16,walking,wallet,FALSE,High
+Majestic City,20,stationary,mobile phone,FALSE,Unknown
+Pettah Bus Stand,20,driving,wallet,FALSE,Unknown
+Fort Railway Station,23,driving,wallet,TRUE,Unknown
+Temple of the Tooth,0,driving,sunglasses,FALSE,Unknown
+Majestic City,19,driving,mobile phone,TRUE,Unknown
+Viharamahadevi Park,8,walking,backpack,FALSE,Moderate
+Viharamahadevi Park,0,stationary,backpack,FALSE,Low
+Fort Railway Station,4,stationary,keys,FALSE,Unknown
+Galle Face,14,walking,keys,FALSE,High
+Galle Face,23,driving,backpack,TRUE,Unknown
+Pettah Bus Stand,18,driving,water bottle,FALSE,High
+Liberty Plaza,1,walking,keys,FALSE,Unknown
+Gangaramaya Temple,16,stationary,keys,FALSE,Unknown
+Pettah Bus Stand,1,stationary,ID card,FALSE,Unknown
+Galle Face,17,stationary,ID card,FALSE,Unknown
+Fort Railway Station,10,walking,wallet,TRUE,Unknown
+Viharamahadevi Park,22,stationary,backpack,TRUE,Low
+Katunayake Airport,1,stationary,backpack,TRUE,Low
+Fort Railway Station,23,stationary,water bottle,FALSE,Unknown
+Gangaramaya Temple,10,driving,backpack,TRUE,Moderate
+Liberty Plaza,16,driving,sunglasses,TRUE,Moderate
+Galle Face,5,walking,ID card,TRUE,High
+Colombo,2,walking,ID card,TRUE,Unknown
+Galle,4,stationary,ID card,TRUE,Unknown
+Gangaramaya Temple,13,walking,ID card,FALSE,Unknown
+Galle Face,6,driving,mobile phone,TRUE,Unknown
+Kandy,4,walking,mobile phone,FALSE,Unknown
+Katunayake Airport,20,stationary,mobile phone,TRUE,Unknown
+Colombo,7,driving,ID card,FALSE,Unknown
+Gangaramaya Temple,18,stationary,mobile phone,FALSE,Unknown
+Majestic City,6,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,21,walking,water bottle,TRUE,Unknown
+Colombo,20,driving,ID card,FALSE,Unknown
+Temple of the Tooth,6,stationary,keys,FALSE,Unknown
+Katunayake Airport,23,stationary,mobile phone,FALSE,Unknown
+Katunayake Airport,10,driving,keys,TRUE,Unknown
+Viharamahadevi Park,20,driving,wallet,FALSE,Moderate
+Gangaramaya Temple,20,driving,keys,TRUE,Moderate
+Katunayake Airport,0,walking,backpack,FALSE,High
+Kandy,14,walking,wallet,TRUE,Unknown
+Katunayake Airport,5,stationary,ID card,TRUE,Unknown
+Pettah Bus Stand,15,walking,sunglasses,FALSE,Unknown
+Temple of the Tooth,10,driving,keys,TRUE,Moderate
+Pettah Bus Stand,10,walking,wallet,FALSE,Unknown
+Galle Face,15,driving,sunglasses,FALSE,Unknown
+Jaffna,21,driving,keys,FALSE,Unknown
+Liberty Plaza,2,stationary,wallet,FALSE,Unknown
+Galle Face,21,stationary,ID card,FALSE,Unknown
+Temple of the Tooth,19,stationary,wallet,TRUE,Moderate
+Fort Railway Station,11,stationary,wallet,TRUE,Unknown
+Pettah Bus Stand,12,stationary,mobile phone,TRUE,Unknown
+Majestic City,11,walking,sunglasses,TRUE,Unknown
+Katunayake Airport,13,walking,wallet,FALSE,High
+Liberty Plaza,18,walking,wallet,TRUE,Moderate
+Fort Railway Station,12,walking,keys,FALSE,Unknown
+Katunayake Airport,1,walking,keys,TRUE,High
+Majestic City,12,stationary,mobile phone,TRUE,Unknown
+Majestic City,2,walking,keys,TRUE,Unknown
+Colombo,14,walking,water bottle,TRUE,Unknown
+Viharamahadevi Park,9,driving,mobile phone,TRUE,Moderate
+Kandy,3,driving,water bottle,TRUE,Unknown
+Gangaramaya Temple,20,stationary,sunglasses,TRUE,Moderate
+Liberty Plaza,3,walking,sunglasses,FALSE,Unknown
+Pettah Bus Stand,12,driving,ID card,FALSE,Unknown
+Viharamahadevi Park,12,driving,mobile phone,TRUE,Moderate
+Katunayake Airport,3,walking,backpack,FALSE,High
+Katunayake Airport,16,walking,backpack,FALSE,High
+Jaffna,17,driving,sunglasses,FALSE,Unknown
+Katunayake Airport,18,walking,sunglasses,TRUE,High
+Liberty Plaza,15,driving,water bottle,FALSE,Moderate
+Viharamahadevi Park,21,driving,water bottle,FALSE,Unknown
+Katunayake Airport,16,walking,backpack,FALSE,High
+Katunayake Airport,19,walking,mobile phone,FALSE,High
+Liberty Plaza,3,stationary,ID card,TRUE,Unknown
+Jaffna,1,driving,sunglasses,TRUE,Unknown
+Viharamahadevi Park,2,walking,wallet,FALSE,Unknown
+Temple of the Tooth,16,walking,sunglasses,TRUE,Moderate
+Viharamahadevi Park,14,driving,backpack,FALSE,Moderate
+Fort Railway Station,9,stationary,sunglasses,TRUE,Unknown
+Katunayake Airport,9,walking,wallet,TRUE,High
+Katunayake Airport,1,driving,keys,FALSE,Unknown
+Majestic City,20,walking,backpack,FALSE,Unknown
+Fort Railway Station,20,stationary,keys,FALSE,Unknown
+Jaffna,19,walking,mobile phone,FALSE,Unknown
+Jaffna,15,stationary,wallet,FALSE,Unknown
+Temple of the Tooth,17,walking,backpack,FALSE,Unknown
+Temple of the Tooth,19,stationary,water bottle,FALSE,Unknown
+Majestic City,0,walking,backpack,FALSE,Unknown
+Kandy,8,walking,keys,TRUE,Unknown
+Colombo,5,driving,ID card,TRUE,Unknown
+Galle Face,3,walking,wallet,FALSE,High
+Fort Railway Station,12,driving,sunglasses,TRUE,Unknown
+Liberty Plaza,11,stationary,backpack,FALSE,Moderate
+Viharamahadevi Park,5,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,0,walking,sunglasses,TRUE,Moderate
+Galle,16,walking,sunglasses,TRUE,Unknown
+Galle,11,walking,wallet,TRUE,Unknown
+Majestic City,10,walking,sunglasses,TRUE,Unknown
+Galle,14,walking,wallet,FALSE,Unknown
+Katunayake Airport,20,stationary,sunglasses,FALSE,Unknown
+Temple of the Tooth,4,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,0,driving,ID card,TRUE,Moderate
+Colombo,16,stationary,wallet,FALSE,Unknown
+Fort Railway Station,7,walking,keys,TRUE,Unknown
+Colombo,3,walking,water bottle,TRUE,Unknown
+Colombo,6,driving,keys,FALSE,Unknown
+Galle,8,stationary,water bottle,TRUE,Unknown
+Viharamahadevi Park,14,stationary,ID card,TRUE,Moderate
+Katunayake Airport,13,driving,backpack,TRUE,Unknown
+Fort Railway Station,16,stationary,backpack,TRUE,Low
+Galle,3,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,15,walking,backpack,FALSE,Unknown
+Kandy,20,walking,backpack,TRUE,Unknown
+Colombo,12,walking,water bottle,TRUE,Unknown
+Galle,16,stationary,mobile phone,TRUE,Unknown
+Kandy,12,walking,mobile phone,FALSE,Unknown
+Temple of the Tooth,22,driving,keys,TRUE,Moderate
+Colombo,1,walking,sunglasses,TRUE,Unknown
+Gangaramaya Temple,13,driving,keys,FALSE,Unknown
+Liberty Plaza,11,walking,mobile phone,TRUE,Moderate
+Galle Face,22,driving,sunglasses,TRUE,Unknown
+Katunayake Airport,13,walking,wallet,FALSE,High
+Temple of the Tooth,14,stationary,backpack,TRUE,Moderate
+Pettah Bus Stand,2,driving,mobile phone,FALSE,Unknown
+Fort Railway Station,1,stationary,backpack,TRUE,Low
+Katunayake Airport,12,driving,sunglasses,TRUE,Unknown
+Galle Face,20,stationary,ID card,FALSE,Unknown
+Liberty Plaza,22,stationary,water bottle,FALSE,Unknown
+Jaffna,11,driving,backpack,TRUE,Unknown
+Fort Railway Station,15,stationary,wallet,FALSE,Unknown
+Galle Face,18,driving,wallet,TRUE,Unknown
+Temple of the Tooth,11,stationary,wallet,FALSE,Unknown
+Temple of the Tooth,20,driving,sunglasses,TRUE,Moderate
+Colombo,19,walking,sunglasses,TRUE,Unknown
+Liberty Plaza,9,stationary,water bottle,FALSE,Moderate
+Temple of the Tooth,16,walking,water bottle,FALSE,Unknown
+Galle,15,stationary,backpack,TRUE,Low
+Galle Face,7,stationary,backpack,TRUE,Low
+Galle,14,stationary,keys,FALSE,Unknown
+Kandy,8,walking,mobile phone,FALSE,Unknown
+Jaffna,19,walking,ID card,FALSE,Unknown
+Gangaramaya Temple,11,walking,backpack,TRUE,Moderate
+Liberty Plaza,13,stationary,wallet,FALSE,Moderate
+Katunayake Airport,16,walking,keys,FALSE,High
+Jaffna,13,stationary,sunglasses,FALSE,Unknown
+Pettah Bus Stand,15,driving,water bottle,TRUE,Unknown
+Katunayake Airport,13,stationary,water bottle,FALSE,Unknown
+Kandy,22,stationary,ID card,FALSE,Unknown
+Temple of the Tooth,18,walking,water bottle,TRUE,Moderate
+Jaffna,11,walking,keys,TRUE,Unknown
+Gangaramaya Temple,0,stationary,ID card,TRUE,Moderate
+Jaffna,3,stationary,mobile phone,TRUE,Unknown
+Temple of the Tooth,13,walking,keys,FALSE,Unknown
+Kandy,23,walking,sunglasses,TRUE,Unknown
+Viharamahadevi Park,5,stationary,ID card,TRUE,Unknown
+Kandy,19,walking,sunglasses,FALSE,Unknown
+Jaffna,18,driving,water bottle,TRUE,Unknown
+Majestic City,2,stationary,water bottle,FALSE,Unknown
+Colombo,17,stationary,backpack,TRUE,Low
+Majestic City,10,walking,backpack,TRUE,Unknown
+Temple of the Tooth,4,walking,mobile phone,FALSE,Unknown
+Viharamahadevi Park,15,walking,ID card,FALSE,Moderate
+Katunayake Airport,21,walking,ID card,FALSE,High
+Galle,22,driving,ID card,FALSE,Unknown
+Pettah Bus Stand,18,stationary,sunglasses,FALSE,High
+Katunayake Airport,7,driving,keys,FALSE,Unknown
+Pettah Bus Stand,1,stationary,keys,FALSE,Unknown
+Katunayake Airport,1,stationary,backpack,FALSE,Low
+Pettah Bus Stand,6,walking,water bottle,FALSE,Unknown
+Galle Face,18,driving,sunglasses,FALSE,Unknown
+Pettah Bus Stand,1,walking,sunglasses,TRUE,Unknown
+Galle,15,stationary,mobile phone,FALSE,Unknown
+Kandy,15,driving,water bottle,FALSE,Unknown
+Katunayake Airport,21,driving,water bottle,FALSE,Unknown
+Galle,19,walking,backpack,FALSE,Unknown
+Majestic City,4,stationary,water bottle,TRUE,Unknown
+Galle,2,driving,keys,TRUE,Unknown
+Liberty Plaza,16,walking,wallet,TRUE,Moderate
+Pettah Bus Stand,7,stationary,mobile phone,TRUE,Unknown
+Majestic City,1,driving,mobile phone,TRUE,Unknown
+Galle Face,16,walking,ID card,TRUE,High
+Galle,0,walking,wallet,TRUE,Unknown
+Jaffna,16,walking,ID card,FALSE,Unknown
+Jaffna,2,stationary,sunglasses,TRUE,Unknown
+Pettah Bus Stand,11,walking,wallet,FALSE,Unknown
+Majestic City,10,driving,keys,FALSE,Unknown
+Majestic City,8,driving,sunglasses,FALSE,High
+Viharamahadevi Park,3,driving,sunglasses,TRUE,Unknown
+Temple of the Tooth,8,walking,ID card,TRUE,Moderate
+Fort Railway Station,12,driving,mobile phone,TRUE,Unknown
+Kandy,14,driving,sunglasses,TRUE,Unknown
+Fort Railway Station,16,driving,backpack,TRUE,Unknown
+Liberty Plaza,3,stationary,water bottle,FALSE,Unknown
+Kandy,21,stationary,backpack,FALSE,Low
+Gangaramaya Temple,14,driving,sunglasses,TRUE,Moderate
+Viharamahadevi Park,14,walking,ID card,FALSE,Moderate
+Jaffna,2,walking,sunglasses,TRUE,Unknown
+Kandy,7,driving,ID card,TRUE,Unknown
+Pettah Bus Stand,6,stationary,wallet,TRUE,Unknown
+Temple of the Tooth,16,stationary,sunglasses,TRUE,Moderate
+Colombo,4,driving,sunglasses,FALSE,Unknown
+Katunayake Airport,17,walking,sunglasses,FALSE,High
+Fort Railway Station,16,walking,mobile phone,FALSE,Unknown
+Temple of the Tooth,10,walking,sunglasses,TRUE,Moderate
+Liberty Plaza,16,stationary,water bottle,TRUE,Moderate
+Colombo,11,walking,sunglasses,TRUE,Unknown
+Liberty Plaza,3,driving,mobile phone,FALSE,Unknown
+Kandy,17,driving,ID card,FALSE,Unknown
+Jaffna,20,driving,wallet,TRUE,Unknown
+Gangaramaya Temple,11,stationary,water bottle,TRUE,Moderate
+Galle,2,driving,sunglasses,FALSE,Unknown
+Jaffna,4,walking,ID card,FALSE,Unknown
+Kandy,3,driving,mobile phone,FALSE,Unknown
+Liberty Plaza,2,driving,mobile phone,TRUE,Unknown
+Kandy,11,stationary,sunglasses,FALSE,Unknown
+Galle,19,stationary,water bottle,FALSE,Unknown
+Kandy,0,stationary,sunglasses,FALSE,Unknown
+Pettah Bus Stand,22,stationary,ID card,TRUE,Unknown
+Temple of the Tooth,15,driving,ID card,TRUE,Moderate
+Katunayake Airport,0,walking,water bottle,TRUE,High
+Gangaramaya Temple,0,driving,backpack,TRUE,Moderate
+Kandy,5,driving,keys,FALSE,Unknown
+Liberty Plaza,16,stationary,keys,TRUE,Moderate
+Majestic City,18,driving,sunglasses,FALSE,High
+Colombo,16,walking,ID card,TRUE,Unknown
+Majestic City,20,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,15,walking,backpack,FALSE,Unknown
+Galle,22,stationary,water bottle,FALSE,Unknown
+Fort Railway Station,0,stationary,sunglasses,FALSE,Unknown
+Galle Face,8,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,6,stationary,keys,TRUE,Moderate
+Colombo,16,stationary,keys,FALSE,Unknown
+Temple of the Tooth,13,walking,sunglasses,FALSE,Unknown
+Pettah Bus Stand,18,driving,backpack,TRUE,High
+Colombo,16,stationary,sunglasses,FALSE,Unknown
+Gangaramaya Temple,1,walking,backpack,TRUE,Moderate
+Temple of the Tooth,1,walking,backpack,FALSE,Unknown
+Katunayake Airport,13,driving,keys,TRUE,Unknown
+Majestic City,13,driving,wallet,FALSE,Unknown
+Colombo,13,walking,ID card,TRUE,Unknown
+Majestic City,17,walking,water bottle,TRUE,Unknown
+Pettah Bus Stand,4,walking,mobile phone,TRUE,Unknown
+Katunayake Airport,5,walking,water bottle,TRUE,High
+Viharamahadevi Park,12,walking,mobile phone,TRUE,Moderate
+Majestic City,19,stationary,keys,FALSE,Unknown
+Kandy,19,stationary,ID card,TRUE,Unknown
+Katunayake Airport,15,walking,backpack,FALSE,High
+Galle,20,walking,keys,FALSE,Unknown
+Galle,2,driving,keys,FALSE,Unknown
+Galle Face,8,walking,backpack,FALSE,High
+Kandy,13,stationary,wallet,TRUE,Unknown
+Galle Face,22,driving,mobile phone,FALSE,Unknown
+Gangaramaya Temple,8,walking,ID card,TRUE,Moderate
+Liberty Plaza,2,walking,ID card,TRUE,Unknown
+Pettah Bus Stand,7,driving,mobile phone,TRUE,Unknown
+Fort Railway Station,20,driving,backpack,TRUE,Unknown
+Viharamahadevi Park,10,stationary,backpack,TRUE,Moderate
+Temple of the Tooth,9,walking,keys,FALSE,Unknown
+Galle,13,stationary,water bottle,TRUE,Unknown
+Temple of the Tooth,17,driving,sunglasses,FALSE,Unknown
+Liberty Plaza,19,stationary,ID card,TRUE,Moderate
+Katunayake Airport,18,driving,ID card,FALSE,Unknown
+Majestic City,7,driving,ID card,TRUE,Unknown
+Colombo,1,walking,water bottle,FALSE,Unknown
+Fort Railway Station,3,walking,ID card,FALSE,Unknown
+Katunayake Airport,22,driving,keys,TRUE,Unknown
+Majestic City,10,driving,backpack,FALSE,Unknown
+Majestic City,6,walking,backpack,TRUE,Unknown
+Colombo,1,driving,backpack,TRUE,Unknown
+Galle,23,stationary,backpack,FALSE,Low
+Pettah Bus Stand,17,walking,ID card,FALSE,Unknown
+Jaffna,6,walking,backpack,TRUE,Unknown
+Gangaramaya Temple,3,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,8,driving,keys,FALSE,Unknown
+Fort Railway Station,14,walking,keys,FALSE,Unknown
+Liberty Plaza,1,stationary,wallet,FALSE,Unknown
+Majestic City,19,driving,water bottle,FALSE,Unknown
+Kandy,13,walking,wallet,TRUE,Unknown
+Liberty Plaza,14,stationary,sunglasses,TRUE,Moderate
+Galle Face,3,walking,sunglasses,TRUE,High
+Colombo,20,walking,mobile phone,TRUE,Unknown
+Temple of the Tooth,16,walking,keys,TRUE,Moderate
+Pettah Bus Stand,20,driving,keys,TRUE,Unknown
+Fort Railway Station,15,walking,wallet,FALSE,Unknown
+Pettah Bus Stand,22,stationary,sunglasses,TRUE,Unknown
+Viharamahadevi Park,10,driving,sunglasses,TRUE,Moderate
+Fort Railway Station,22,driving,wallet,TRUE,Unknown
+Liberty Plaza,16,walking,wallet,FALSE,Moderate
+Temple of the Tooth,20,driving,water bottle,TRUE,Moderate
+Jaffna,2,driving,backpack,TRUE,Unknown
+Liberty Plaza,21,walking,wallet,TRUE,Unknown
+Jaffna,13,walking,wallet,TRUE,Unknown
+Gangaramaya Temple,17,stationary,backpack,TRUE,Moderate
+Galle Face,9,stationary,wallet,FALSE,Unknown
+Viharamahadevi Park,5,stationary,keys,TRUE,Unknown
+Colombo,2,walking,sunglasses,TRUE,Unknown
+Fort Railway Station,17,walking,wallet,TRUE,Unknown
+Jaffna,21,stationary,sunglasses,TRUE,Unknown
+Gangaramaya Temple,15,driving,keys,TRUE,Moderate
+Fort Railway Station,12,driving,mobile phone,FALSE,Unknown
+Temple of the Tooth,13,stationary,backpack,FALSE,Low
+Colombo,16,stationary,mobile phone,TRUE,Unknown
+Gangaramaya Temple,20,walking,backpack,TRUE,Moderate
+Colombo,11,driving,backpack,FALSE,Unknown
+Liberty Plaza,3,walking,sunglasses,TRUE,Unknown
+Jaffna,15,driving,backpack,FALSE,Unknown
+Katunayake Airport,20,driving,sunglasses,FALSE,Unknown
+Viharamahadevi Park,12,stationary,keys,TRUE,Moderate
+Viharamahadevi Park,4,walking,mobile phone,TRUE,Unknown
+Galle Face,20,walking,sunglasses,TRUE,High
+Liberty Plaza,8,driving,backpack,FALSE,Moderate
+Jaffna,20,driving,ID card,TRUE,Unknown
+Temple of the Tooth,17,stationary,ID card,FALSE,Unknown
+Pettah Bus Stand,15,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,8,stationary,backpack,TRUE,Moderate
+Colombo,18,driving,keys,TRUE,Unknown
+Galle,2,walking,backpack,FALSE,Unknown
+Galle Face,1,walking,keys,TRUE,High
+Kandy,22,stationary,water bottle,TRUE,Unknown
+Temple of the Tooth,0,walking,wallet,FALSE,Unknown
+Liberty Plaza,1,walking,mobile phone,FALSE,Unknown
+Galle,9,walking,sunglasses,TRUE,Unknown
+Majestic City,9,driving,wallet,FALSE,Unknown
+Colombo,0,walking,ID card,TRUE,Unknown
+Jaffna,23,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,7,walking,wallet,FALSE,Unknown
+Fort Railway Station,12,walking,keys,FALSE,Unknown
+Jaffna,19,walking,wallet,FALSE,Unknown
+Gangaramaya Temple,16,walking,keys,FALSE,Unknown
+Galle,8,stationary,mobile phone,FALSE,Unknown
+Galle,19,stationary,wallet,TRUE,Unknown
+Majestic City,0,stationary,wallet,FALSE,Unknown
+Galle,1,stationary,sunglasses,TRUE,Unknown
+Galle,23,stationary,ID card,FALSE,Unknown
+Jaffna,23,driving,backpack,FALSE,Unknown
+Jaffna,6,stationary,water bottle,FALSE,Unknown
+Katunayake Airport,2,driving,backpack,FALSE,Unknown
+Temple of the Tooth,12,stationary,backpack,FALSE,Low
+Jaffna,12,walking,keys,FALSE,Unknown
+Galle,18,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,15,walking,sunglasses,TRUE,Unknown
+Colombo,17,driving,water bottle,FALSE,Unknown
+Liberty Plaza,19,walking,backpack,FALSE,Moderate
+Galle,11,driving,backpack,TRUE,Unknown
+Pettah Bus Stand,7,driving,water bottle,FALSE,Unknown
+Pettah Bus Stand,2,walking,wallet,TRUE,Unknown
+Galle Face,20,stationary,sunglasses,FALSE,Unknown
+Colombo,4,driving,ID card,FALSE,Unknown
+Galle,5,walking,mobile phone,FALSE,Unknown
+Viharamahadevi Park,17,walking,ID card,FALSE,Moderate
+Kandy,3,driving,mobile phone,TRUE,Unknown
+Kandy,8,walking,sunglasses,TRUE,Unknown
+Viharamahadevi Park,16,driving,sunglasses,FALSE,Moderate
+Liberty Plaza,17,walking,sunglasses,TRUE,Moderate
+Pettah Bus Stand,17,stationary,sunglasses,TRUE,Unknown
+Galle Face,5,walking,ID card,FALSE,High
+Kandy,12,walking,ID card,FALSE,Unknown
+Fort Railway Station,3,driving,sunglasses,FALSE,Unknown
+Colombo,3,stationary,ID card,FALSE,Unknown
+Majestic City,19,driving,water bottle,TRUE,Unknown
+Viharamahadevi Park,22,stationary,sunglasses,TRUE,Unknown
+Galle,4,driving,keys,TRUE,Unknown
+Pettah Bus Stand,6,walking,ID card,TRUE,Unknown
+Colombo,8,driving,sunglasses,TRUE,Unknown
+Liberty Plaza,1,driving,mobile phone,TRUE,Unknown
+Kandy,15,stationary,sunglasses,FALSE,Unknown
+Liberty Plaza,7,driving,water bottle,FALSE,Moderate
+Majestic City,21,stationary,keys,TRUE,Unknown
+Colombo,4,stationary,wallet,FALSE,Unknown
+Majestic City,17,driving,wallet,FALSE,Unknown
+Fort Railway Station,4,driving,water bottle,TRUE,Unknown
+Majestic City,20,driving,keys,TRUE,Unknown
+Fort Railway Station,0,stationary,sunglasses,TRUE,Unknown
+Gangaramaya Temple,6,driving,keys,FALSE,Unknown
+Kandy,20,walking,ID card,TRUE,Unknown
+Galle Face,5,driving,wallet,TRUE,Unknown
+Liberty Plaza,4,walking,mobile phone,FALSE,Unknown
+Gangaramaya Temple,2,stationary,mobile phone,FALSE,Unknown
+Kandy,8,driving,water bottle,TRUE,Unknown
+Fort Railway Station,10,stationary,backpack,FALSE,Low
+Majestic City,3,driving,water bottle,TRUE,Unknown
+Colombo,5,walking,water bottle,FALSE,Unknown
+Pettah Bus Stand,13,walking,mobile phone,TRUE,Unknown
+Jaffna,6,walking,mobile phone,TRUE,Unknown
+Katunayake Airport,20,driving,ID card,FALSE,Unknown
+Pettah Bus Stand,0,walking,wallet,FALSE,Unknown
+Galle Face,6,walking,wallet,TRUE,High
+Majestic City,8,driving,backpack,TRUE,High
+Viharamahadevi Park,17,driving,sunglasses,FALSE,Moderate
+Jaffna,9,stationary,sunglasses,FALSE,Unknown
+Kandy,20,stationary,backpack,TRUE,Low
+Kandy,0,stationary,wallet,TRUE,Unknown
+Jaffna,15,walking,sunglasses,FALSE,Unknown
+Temple of the Tooth,16,walking,keys,TRUE,Moderate
+Kandy,0,stationary,mobile phone,FALSE,Unknown
+Jaffna,17,driving,sunglasses,TRUE,Unknown
+Majestic City,13,walking,water bottle,TRUE,Unknown
+Galle Face,14,stationary,backpack,FALSE,Low
+Jaffna,15,driving,wallet,TRUE,Unknown
+Katunayake Airport,8,driving,wallet,FALSE,Unknown
+Viharamahadevi Park,12,driving,ID card,FALSE,Moderate
+Majestic City,11,stationary,water bottle,TRUE,Unknown
+Kandy,18,stationary,wallet,TRUE,Unknown
+Viharamahadevi Park,22,driving,wallet,TRUE,Unknown
+Katunayake Airport,23,stationary,keys,FALSE,Unknown
+Galle Face,11,driving,sunglasses,FALSE,Unknown
+Liberty Plaza,23,driving,mobile phone,FALSE,Unknown
+Kandy,21,walking,water bottle,TRUE,Unknown
+Katunayake Airport,5,stationary,wallet,TRUE,Unknown
+Galle Face,1,walking,sunglasses,FALSE,High
+Jaffna,7,driving,sunglasses,TRUE,Unknown
+Majestic City,19,stationary,ID card,TRUE,Unknown
+Kandy,3,stationary,water bottle,FALSE,Unknown
+Jaffna,21,stationary,wallet,FALSE,Unknown
+Kandy,2,driving,sunglasses,FALSE,Unknown
+Colombo,11,walking,keys,FALSE,Unknown
+Gangaramaya Temple,10,driving,sunglasses,FALSE,Unknown
+Katunayake Airport,13,stationary,wallet,FALSE,Unknown
+Jaffna,9,driving,ID card,TRUE,Unknown
+Galle Face,6,stationary,backpack,TRUE,Low
+Gangaramaya Temple,12,stationary,sunglasses,FALSE,Unknown
+Majestic City,1,stationary,ID card,TRUE,Unknown
+Jaffna,2,walking,water bottle,TRUE,Unknown
+Gangaramaya Temple,19,stationary,wallet,FALSE,Unknown
+Gangaramaya Temple,19,stationary,ID card,FALSE,Unknown
+Galle,11,stationary,mobile phone,TRUE,Unknown
+Majestic City,14,walking,keys,FALSE,Unknown
+Kandy,17,driving,backpack,TRUE,Unknown
+Galle Face,2,stationary,backpack,TRUE,Low
+Katunayake Airport,1,driving,sunglasses,TRUE,Unknown
+Liberty Plaza,7,stationary,mobile phone,FALSE,Moderate
+Temple of the Tooth,3,stationary,ID card,FALSE,Unknown
+Jaffna,7,walking,ID card,FALSE,Unknown
+Kandy,19,driving,backpack,FALSE,Unknown
+Temple of the Tooth,4,walking,wallet,TRUE,Moderate
+Liberty Plaza,11,stationary,wallet,FALSE,Moderate
+Pettah Bus Stand,4,driving,mobile phone,FALSE,Unknown
+Majestic City,14,stationary,wallet,TRUE,Unknown
+Katunayake Airport,5,walking,keys,FALSE,High
+Colombo,18,stationary,wallet,TRUE,Unknown
+Galle,8,driving,water bottle,FALSE,Unknown
+Galle Face,0,walking,water bottle,FALSE,High
+Kandy,2,stationary,wallet,FALSE,Unknown
+Galle,5,driving,backpack,TRUE,Unknown
+Kandy,11,walking,backpack,FALSE,Unknown
+Galle Face,16,stationary,water bottle,TRUE,Unknown
+Liberty Plaza,20,driving,backpack,FALSE,Moderate
+Pettah Bus Stand,16,walking,backpack,FALSE,Unknown
+Majestic City,6,walking,water bottle,TRUE,Unknown
+Galle Face,0,stationary,wallet,FALSE,Unknown
+Temple of the Tooth,7,stationary,water bottle,FALSE,Unknown
+Liberty Plaza,2,walking,sunglasses,FALSE,Unknown
+Pettah Bus Stand,14,driving,backpack,FALSE,Unknown
+Katunayake Airport,3,walking,backpack,TRUE,High
+Liberty Plaza,8,driving,keys,TRUE,Moderate
+Liberty Plaza,4,walking,keys,FALSE,Unknown
+Temple of the Tooth,22,walking,wallet,FALSE,Unknown
+Galle,18,walking,wallet,FALSE,Unknown
+Liberty Plaza,23,driving,wallet,TRUE,Unknown
+Gangaramaya Temple,2,driving,sunglasses,FALSE,Unknown
+Majestic City,16,driving,backpack,FALSE,Unknown
+Jaffna,0,stationary,ID card,TRUE,Unknown
+Pettah Bus Stand,8,walking,backpack,FALSE,High
+Galle,7,walking,water bottle,FALSE,Unknown
+Gangaramaya Temple,10,walking,mobile phone,FALSE,Unknown
+Majestic City,18,driving,backpack,FALSE,High
+Liberty Plaza,6,walking,backpack,FALSE,Moderate
+Viharamahadevi Park,10,walking,ID card,TRUE,Moderate
+Gangaramaya Temple,19,driving,mobile phone,TRUE,Moderate
+Galle Face,6,walking,ID card,TRUE,High
+Katunayake Airport,15,stationary,water bottle,FALSE,Unknown
+Jaffna,14,driving,mobile phone,FALSE,Unknown
+Galle,12,driving,keys,TRUE,Unknown
+Galle,9,walking,wallet,FALSE,Unknown
+Fort Railway Station,23,walking,wallet,FALSE,Unknown
+Temple of the Tooth,21,stationary,sunglasses,FALSE,Unknown
+Pettah Bus Stand,11,walking,backpack,FALSE,Unknown
+Katunayake Airport,20,walking,mobile phone,TRUE,High
+Fort Railway Station,11,stationary,backpack,FALSE,Low
+Gangaramaya Temple,13,stationary,mobile phone,FALSE,Unknown
+Galle Face,23,driving,keys,FALSE,Unknown
+Majestic City,12,driving,mobile phone,TRUE,Unknown
+Majestic City,4,stationary,backpack,FALSE,Low
+Jaffna,18,driving,keys,TRUE,Unknown
+Fort Railway Station,13,stationary,keys,TRUE,Unknown
+Temple of the Tooth,3,driving,water bottle,FALSE,Unknown
+Liberty Plaza,13,stationary,sunglasses,FALSE,Moderate
+Galle Face,17,walking,water bottle,FALSE,High
+Gangaramaya Temple,15,stationary,ID card,FALSE,Unknown
+Fort Railway Station,15,driving,water bottle,FALSE,Unknown
+Liberty Plaza,8,walking,sunglasses,TRUE,Moderate
+Katunayake Airport,3,driving,keys,FALSE,Unknown
+Majestic City,21,stationary,backpack,TRUE,Low
+Pettah Bus Stand,12,walking,wallet,TRUE,Unknown
+Pettah Bus Stand,6,walking,backpack,FALSE,Unknown
+Pettah Bus Stand,3,stationary,ID card,TRUE,Unknown
+Fort Railway Station,7,stationary,backpack,FALSE,Low
+Gangaramaya Temple,11,driving,mobile phone,TRUE,Moderate
+Colombo,10,stationary,wallet,TRUE,Unknown
+Jaffna,0,walking,wallet,FALSE,Unknown
+Jaffna,0,walking,ID card,TRUE,Unknown
+Temple of the Tooth,7,walking,ID card,FALSE,Unknown
+Kandy,23,driving,sunglasses,TRUE,Unknown
+Fort Railway Station,22,walking,mobile phone,TRUE,Unknown
+Kandy,16,stationary,water bottle,TRUE,Unknown
+Galle,14,walking,mobile phone,FALSE,Unknown
+Kandy,1,driving,water bottle,TRUE,Unknown
+Temple of the Tooth,19,driving,sunglasses,TRUE,Moderate
+Fort Railway Station,10,walking,sunglasses,TRUE,Unknown
+Galle Face,20,stationary,mobile phone,TRUE,Unknown
+Colombo,8,driving,mobile phone,FALSE,Unknown
+Fort Railway Station,15,stationary,ID card,TRUE,Unknown
+Colombo,18,driving,keys,TRUE,Unknown
+Fort Railway Station,19,stationary,ID card,FALSE,Unknown
+Majestic City,14,stationary,wallet,TRUE,Unknown
+Colombo,9,stationary,water bottle,TRUE,Unknown
+Pettah Bus Stand,22,driving,keys,TRUE,Unknown
+Katunayake Airport,16,stationary,ID card,TRUE,Unknown
+Fort Railway Station,17,stationary,mobile phone,FALSE,Unknown
+Majestic City,13,walking,backpack,FALSE,Unknown
+Temple of the Tooth,9,stationary,ID card,TRUE,Moderate
+Galle,14,stationary,wallet,FALSE,Unknown
+Galle Face,11,driving,sunglasses,FALSE,Unknown
+Temple of the Tooth,20,driving,water bottle,FALSE,Unknown
+Majestic City,9,driving,water bottle,FALSE,Unknown
+Viharamahadevi Park,9,driving,sunglasses,FALSE,Moderate
+Galle,23,walking,mobile phone,FALSE,Unknown
+Galle Face,14,driving,water bottle,FALSE,Unknown
+Fort Railway Station,4,walking,sunglasses,FALSE,Unknown
+Temple of the Tooth,20,walking,wallet,FALSE,Unknown
+Galle,21,stationary,backpack,TRUE,Low
+Majestic City,11,driving,mobile phone,FALSE,Unknown
+Viharamahadevi Park,15,driving,keys,TRUE,Moderate
+Liberty Plaza,3,stationary,mobile phone,TRUE,Unknown
+Galle Face,6,driving,backpack,TRUE,Unknown
+Viharamahadevi Park,14,walking,sunglasses,FALSE,Moderate
+Fort Railway Station,16,stationary,ID card,FALSE,Unknown
+Gangaramaya Temple,17,stationary,ID card,FALSE,Unknown
+Temple of the Tooth,9,driving,keys,TRUE,Moderate
+Galle,12,walking,keys,TRUE,Unknown
+Jaffna,21,stationary,mobile phone,TRUE,Unknown
+Katunayake Airport,7,walking,keys,TRUE,High
+Kandy,23,stationary,keys,FALSE,Unknown
+Colombo,18,walking,mobile phone,TRUE,Unknown
+Gangaramaya Temple,15,stationary,backpack,FALSE,Low
+Jaffna,21,walking,wallet,FALSE,Unknown
+Galle Face,1,driving,keys,TRUE,Unknown
+Galle Face,15,walking,ID card,FALSE,High
+Jaffna,14,stationary,sunglasses,FALSE,Unknown
+Kandy,2,walking,keys,TRUE,Unknown
+Galle,14,stationary,backpack,FALSE,Low
+Jaffna,21,walking,backpack,TRUE,Unknown
+Majestic City,5,driving,water bottle,FALSE,Unknown
+Gangaramaya Temple,4,walking,water bottle,TRUE,Moderate
+Temple of the Tooth,11,stationary,mobile phone,TRUE,Moderate
+Pettah Bus Stand,17,stationary,sunglasses,FALSE,Unknown
+Viharamahadevi Park,6,stationary,sunglasses,TRUE,Moderate
+Temple of the Tooth,15,stationary,wallet,TRUE,Moderate
+Colombo,16,walking,sunglasses,TRUE,Unknown
+Colombo,4,driving,sunglasses,FALSE,Unknown
+Gangaramaya Temple,3,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,0,stationary,water bottle,FALSE,Unknown
+Liberty Plaza,11,stationary,backpack,TRUE,Moderate
+Temple of the Tooth,4,walking,mobile phone,FALSE,Unknown
+Temple of the Tooth,10,walking,water bottle,FALSE,Unknown
+Gangaramaya Temple,2,stationary,mobile phone,FALSE,Unknown
+Kandy,4,stationary,water bottle,TRUE,Unknown
+Fort Railway Station,22,driving,mobile phone,FALSE,Unknown
+Pettah Bus Stand,18,stationary,ID card,FALSE,High
+Colombo,19,walking,keys,TRUE,Unknown
+Colombo,14,stationary,sunglasses,FALSE,Unknown
+Viharamahadevi Park,22,driving,wallet,FALSE,Unknown
+Temple of the Tooth,14,walking,wallet,FALSE,Unknown
+Temple of the Tooth,20,walking,keys,TRUE,Moderate
+Liberty Plaza,0,stationary,sunglasses,TRUE,Unknown
+Viharamahadevi Park,7,walking,keys,FALSE,Moderate
+Pettah Bus Stand,20,driving,sunglasses,TRUE,Unknown
+Colombo,7,stationary,ID card,TRUE,Unknown
+Liberty Plaza,16,stationary,mobile phone,FALSE,Moderate
+Pettah Bus Stand,11,driving,ID card,FALSE,Unknown
+Liberty Plaza,9,driving,ID card,FALSE,Moderate
+Fort Railway Station,22,driving,wallet,FALSE,Unknown
+Liberty Plaza,12,stationary,water bottle,TRUE,Moderate
+Liberty Plaza,19,stationary,ID card,FALSE,Moderate
+Kandy,6,stationary,water bottle,FALSE,Unknown
+Jaffna,2,walking,wallet,FALSE,Unknown
+Temple of the Tooth,5,walking,mobile phone,TRUE,Moderate
+Colombo,14,stationary,wallet,TRUE,Unknown
+Kandy,19,walking,keys,TRUE,Unknown
+Jaffna,5,stationary,sunglasses,TRUE,Unknown
+Galle Face,14,stationary,wallet,FALSE,Unknown
+Viharamahadevi Park,12,stationary,water bottle,TRUE,Moderate
+Majestic City,9,stationary,keys,TRUE,Unknown
+Viharamahadevi Park,10,walking,ID card,FALSE,Moderate
+Katunayake Airport,21,walking,sunglasses,TRUE,High
+Pettah Bus Stand,10,walking,sunglasses,FALSE,Unknown
+Katunayake Airport,17,stationary,backpack,TRUE,Low
+Kandy,11,walking,keys,TRUE,Unknown
+Liberty Plaza,18,driving,ID card,FALSE,Moderate
+Majestic City,16,stationary,water bottle,FALSE,Unknown
+Pettah Bus Stand,22,walking,water bottle,TRUE,Unknown
+Galle Face,23,driving,wallet,FALSE,Unknown
+Jaffna,23,driving,water bottle,FALSE,Unknown
+Gangaramaya Temple,1,stationary,backpack,FALSE,Low
+Galle,13,driving,water bottle,TRUE,Unknown
+Jaffna,22,walking,water bottle,TRUE,Unknown
+Pettah Bus Stand,18,walking,water bottle,FALSE,High
+Galle,13,driving,mobile phone,FALSE,Unknown
+Kandy,2,walking,wallet,TRUE,Unknown
+Liberty Plaza,7,driving,backpack,TRUE,Moderate
+Fort Railway Station,12,driving,water bottle,TRUE,Unknown
+Viharamahadevi Park,8,walking,sunglasses,TRUE,Moderate
+Fort Railway Station,21,walking,keys,FALSE,Unknown
+Jaffna,12,walking,sunglasses,TRUE,Unknown
+Liberty Plaza,14,stationary,backpack,FALSE,Moderate
+Liberty Plaza,12,driving,water bottle,FALSE,Moderate
+Colombo,7,stationary,wallet,FALSE,Unknown
+Galle Face,20,walking,keys,TRUE,High
+Katunayake Airport,13,driving,mobile phone,TRUE,Unknown
+Gangaramaya Temple,8,stationary,keys,FALSE,Unknown
+Colombo,12,walking,mobile phone,FALSE,Unknown
+Gangaramaya Temple,10,driving,ID card,TRUE,Moderate
+Jaffna,23,driving,ID card,TRUE,Unknown
+Galle Face,0,stationary,ID card,FALSE,Unknown
+Jaffna,4,stationary,sunglasses,FALSE,Unknown
+Liberty Plaza,0,stationary,wallet,TRUE,Unknown
+Katunayake Airport,13,driving,mobile phone,TRUE,Unknown
+Galle,10,stationary,wallet,TRUE,Unknown
+Liberty Plaza,23,walking,water bottle,TRUE,Unknown
+Kandy,10,stationary,mobile phone,FALSE,Unknown
+Kandy,10,walking,ID card,FALSE,Unknown
+Pettah Bus Stand,22,stationary,sunglasses,TRUE,Unknown
+Galle,6,stationary,wallet,FALSE,Unknown
+Galle Face,0,driving,backpack,TRUE,Unknown
+Gangaramaya Temple,3,stationary,water bottle,FALSE,Unknown
+Temple of the Tooth,22,driving,keys,FALSE,Unknown
+Temple of the Tooth,4,driving,backpack,TRUE,Moderate
+Fort Railway Station,1,driving,water bottle,FALSE,Unknown
+Viharamahadevi Park,6,driving,sunglasses,FALSE,Moderate
+Fort Railway Station,1,walking,ID card,FALSE,Unknown
+Galle Face,16,walking,sunglasses,TRUE,High
+Galle Face,15,stationary,sunglasses,FALSE,Unknown
+Viharamahadevi Park,12,stationary,water bottle,TRUE,Moderate
+Fort Railway Station,8,stationary,mobile phone,FALSE,High
+Temple of the Tooth,9,stationary,sunglasses,FALSE,Unknown
+Fort Railway Station,21,stationary,wallet,TRUE,Unknown
+Colombo,18,driving,ID card,TRUE,Unknown
+Majestic City,4,driving,backpack,FALSE,Unknown
+Galle,6,stationary,keys,FALSE,Unknown
+Pettah Bus Stand,13,walking,backpack,TRUE,Unknown
+Katunayake Airport,21,walking,ID card,TRUE,High
+Majestic City,13,stationary,wallet,TRUE,Unknown
+Jaffna,21,stationary,sunglasses,TRUE,Unknown
+Kandy,3,driving,mobile phone,TRUE,Unknown
+Galle,20,walking,sunglasses,FALSE,Unknown
+Liberty Plaza,6,stationary,sunglasses,FALSE,Moderate
+Gangaramaya Temple,1,stationary,ID card,TRUE,Moderate
+Katunayake Airport,16,stationary,keys,TRUE,Unknown
+Jaffna,11,walking,keys,TRUE,Unknown
+Jaffna,11,walking,keys,TRUE,Unknown
+Galle,12,walking,keys,FALSE,Unknown
+Liberty Plaza,20,walking,sunglasses,TRUE,Moderate
+Galle,6,driving,sunglasses,FALSE,Unknown
+Galle Face,2,walking,wallet,FALSE,High
+Fort Railway Station,8,driving,backpack,FALSE,High
+Pettah Bus Stand,20,stationary,ID card,FALSE,Unknown
+Liberty Plaza,19,stationary,keys,FALSE,Moderate
+Katunayake Airport,17,driving,backpack,TRUE,Unknown
+Katunayake Airport,8,walking,keys,TRUE,High
+Colombo,21,driving,ID card,TRUE,Unknown
+Galle,22,stationary,keys,FALSE,Unknown
+Galle,20,walking,keys,TRUE,Unknown
+Temple of the Tooth,6,driving,backpack,TRUE,Moderate
+Liberty Plaza,0,walking,wallet,FALSE,Unknown
+Kandy,13,stationary,keys,TRUE,Unknown
+Kandy,2,driving,sunglasses,FALSE,Unknown
+Jaffna,2,walking,ID card,TRUE,Unknown
+Katunayake Airport,7,stationary,wallet,TRUE,Unknown
+Majestic City,16,driving,sunglasses,FALSE,Unknown
+Galle Face,11,driving,ID card,FALSE,Unknown
+Majestic City,4,walking,backpack,FALSE,Unknown
+Galle,1,stationary,keys,TRUE,Unknown
+Pettah Bus Stand,16,stationary,mobile phone,FALSE,Unknown
+Majestic City,14,stationary,sunglasses,FALSE,Unknown
+Pettah Bus Stand,17,walking,wallet,TRUE,Unknown
+Jaffna,6,driving,mobile phone,FALSE,Unknown
+Galle,18,walking,ID card,FALSE,Unknown
+Liberty Plaza,1,driving,ID card,TRUE,Unknown
+Galle,22,driving,wallet,TRUE,Unknown
+Colombo,17,walking,mobile phone,TRUE,Unknown
+Katunayake Airport,11,stationary,sunglasses,TRUE,Unknown
+Pettah Bus Stand,3,stationary,wallet,FALSE,Unknown
+Fort Railway Station,18,stationary,keys,FALSE,High
+Pettah Bus Stand,6,stationary,mobile phone,TRUE,Unknown
+Fort Railway Station,12,driving,sunglasses,FALSE,Unknown
+Kandy,11,driving,keys,FALSE,Unknown
+Gangaramaya Temple,9,stationary,keys,TRUE,Moderate
+Gangaramaya Temple,14,stationary,sunglasses,FALSE,Unknown
+Katunayake Airport,18,walking,sunglasses,FALSE,High
+Colombo,19,driving,ID card,TRUE,Unknown
+Liberty Plaza,10,walking,mobile phone,TRUE,Moderate
+Majestic City,8,stationary,mobile phone,FALSE,High
+Kandy,16,stationary,ID card,TRUE,Unknown
+Gangaramaya Temple,9,stationary,wallet,FALSE,Unknown
+Gangaramaya Temple,6,stationary,wallet,FALSE,Unknown
+Pettah Bus Stand,0,stationary,backpack,FALSE,Low
+Majestic City,0,driving,backpack,FALSE,Unknown
+Jaffna,9,driving,keys,TRUE,Unknown
+Temple of the Tooth,22,stationary,wallet,TRUE,Moderate
+Viharamahadevi Park,8,driving,keys,FALSE,Moderate
+Kandy,16,stationary,ID card,FALSE,Unknown
+Galle,6,driving,wallet,FALSE,Unknown
+Galle Face,14,stationary,backpack,FALSE,Low
+Galle,6,stationary,wallet,TRUE,Unknown
+Kandy,6,driving,sunglasses,TRUE,Unknown
+Galle,13,stationary,sunglasses,TRUE,Unknown
+Pettah Bus Stand,12,stationary,keys,FALSE,Unknown
+Temple of the Tooth,23,driving,backpack,FALSE,Unknown
+Temple of the Tooth,3,walking,water bottle,TRUE,Moderate
+Katunayake Airport,9,driving,mobile phone,TRUE,Unknown
+Viharamahadevi Park,22,walking,mobile phone,TRUE,Unknown
+Jaffna,18,driving,sunglasses,TRUE,Unknown
+Fort Railway Station,0,driving,water bottle,FALSE,Unknown
+Gangaramaya Temple,3,walking,mobile phone,TRUE,Moderate
+Kandy,9,stationary,sunglasses,TRUE,Unknown
+Fort Railway Station,18,stationary,sunglasses,TRUE,High
+Viharamahadevi Park,13,driving,keys,FALSE,Moderate
+Fort Railway Station,21,stationary,sunglasses,TRUE,Unknown
+Viharamahadevi Park,19,walking,wallet,FALSE,Moderate
+Liberty Plaza,6,walking,water bottle,FALSE,Moderate
+Fort Railway Station,22,stationary,keys,FALSE,Unknown
+Katunayake Airport,4,driving,water bottle,FALSE,Unknown
+Viharamahadevi Park,0,driving,water bottle,TRUE,Unknown
+Liberty Plaza,19,driving,keys,FALSE,Moderate
+Kandy,9,walking,mobile phone,FALSE,Unknown
+Temple of the Tooth,11,stationary,water bottle,TRUE,Moderate
+Fort Railway Station,19,walking,sunglasses,FALSE,Unknown
+Pettah Bus Stand,12,driving,sunglasses,TRUE,Unknown
+Fort Railway Station,0,driving,keys,TRUE,Unknown
+Fort Railway Station,6,stationary,sunglasses,TRUE,Unknown
+Pettah Bus Stand,9,stationary,mobile phone,TRUE,Unknown
+Pettah Bus Stand,3,driving,ID card,FALSE,Unknown
+Galle,16,stationary,backpack,FALSE,Low
+Temple of the Tooth,2,walking,ID card,TRUE,Moderate
+Viharamahadevi Park,20,stationary,ID card,FALSE,Moderate
+Galle Face,13,stationary,water bottle,FALSE,Unknown
+Fort Railway Station,20,stationary,mobile phone,FALSE,Unknown
+Galle Face,9,stationary,keys,TRUE,Unknown
+Colombo,12,walking,wallet,TRUE,Unknown
+Galle,2,driving,wallet,FALSE,Unknown
+Fort Railway Station,15,driving,water bottle,FALSE,Unknown
+Temple of the Tooth,8,walking,water bottle,TRUE,Moderate
+Temple of the Tooth,4,driving,keys,TRUE,Moderate
+Jaffna,22,stationary,mobile phone,TRUE,Unknown
+Kandy,8,walking,wallet,TRUE,Unknown
+Galle,22,stationary,wallet,TRUE,Unknown
+Liberty Plaza,6,stationary,wallet,FALSE,Moderate
+Jaffna,1,walking,mobile phone,FALSE,Unknown
+Pettah Bus Stand,12,walking,wallet,FALSE,Unknown
+Majestic City,3,walking,keys,TRUE,Unknown
+Galle Face,5,walking,sunglasses,FALSE,High
+Galle Face,4,walking,water bottle,FALSE,High
+Gangaramaya Temple,6,walking,backpack,FALSE,Unknown
+Majestic City,15,driving,wallet,TRUE,Unknown
+Colombo,22,walking,backpack,TRUE,Unknown
+Temple of the Tooth,10,walking,keys,FALSE,Unknown
+Galle,23,stationary,mobile phone,FALSE,Unknown
+Majestic City,15,driving,ID card,TRUE,Unknown
+Galle Face,5,stationary,mobile phone,TRUE,Unknown
+Viharamahadevi Park,3,walking,ID card,FALSE,Unknown
+Kandy,15,driving,mobile phone,FALSE,Unknown
+Colombo,1,driving,keys,FALSE,Unknown
+Galle Face,7,driving,sunglasses,TRUE,Unknown
+Viharamahadevi Park,11,stationary,keys,FALSE,Moderate
+Jaffna,1,walking,wallet,TRUE,Unknown
+Majestic City,16,stationary,water bottle,TRUE,Unknown
+Liberty Plaza,5,walking,mobile phone,FALSE,Unknown
+Galle,2,driving,sunglasses,TRUE,Unknown
+Katunayake Airport,0,walking,wallet,FALSE,High
+Temple of the Tooth,14,walking,backpack,FALSE,Unknown
+Majestic City,1,walking,mobile phone,FALSE,Unknown
+Galle,21,stationary,sunglasses,TRUE,Unknown
+Majestic City,14,stationary,keys,TRUE,Unknown
+Pettah Bus Stand,3,driving,mobile phone,FALSE,Unknown
+Colombo,16,stationary,mobile phone,FALSE,Unknown
+Liberty Plaza,1,driving,mobile phone,FALSE,Unknown
+Majestic City,9,walking,wallet,TRUE,Unknown
+Pettah Bus Stand,3,driving,sunglasses,TRUE,Unknown
+Temple of the Tooth,14,walking,water bottle,FALSE,Unknown
+Gangaramaya Temple,10,walking,wallet,TRUE,Moderate
+Liberty Plaza,3,driving,ID card,TRUE,Unknown
+Galle Face,13,stationary,wallet,FALSE,Unknown
+Majestic City,20,driving,water bottle,FALSE,Unknown
+Liberty Plaza,8,walking,backpack,FALSE,Moderate
+Liberty Plaza,16,walking,keys,FALSE,Moderate
+Viharamahadevi Park,6,walking,keys,TRUE,Moderate
+Viharamahadevi Park,9,driving,water bottle,TRUE,Moderate
+Pettah Bus Stand,2,walking,keys,FALSE,Unknown
+Katunayake Airport,2,walking,wallet,TRUE,High
+Jaffna,20,driving,backpack,FALSE,Unknown
+Temple of the Tooth,23,walking,backpack,TRUE,Moderate
+Galle,1,walking,wallet,TRUE,Unknown
+Colombo,16,walking,sunglasses,TRUE,Unknown
+Fort Railway Station,12,walking,wallet,FALSE,Unknown
+Viharamahadevi Park,8,walking,ID card,TRUE,Moderate
+Temple of the Tooth,13,driving,water bottle,FALSE,Unknown
+Temple of the Tooth,17,stationary,ID card,TRUE,Moderate
+Galle,14,walking,wallet,FALSE,Unknown
+Galle Face,6,driving,water bottle,TRUE,Unknown
+Kandy,2,driving,keys,FALSE,Unknown
+Galle Face,0,stationary,wallet,TRUE,Unknown
+Liberty Plaza,17,stationary,mobile phone,FALSE,Moderate
+Colombo,13,stationary,keys,FALSE,Unknown
+Katunayake Airport,4,stationary,wallet,FALSE,Unknown
+Jaffna,16,driving,backpack,FALSE,Unknown
+Kandy,16,walking,ID card,FALSE,Unknown
+Viharamahadevi Park,9,walking,wallet,FALSE,Moderate
+Temple of the Tooth,16,stationary,wallet,FALSE,Unknown
+Liberty Plaza,19,walking,wallet,TRUE,Moderate
+Liberty Plaza,2,driving,ID card,TRUE,Unknown
+Colombo,14,stationary,sunglasses,FALSE,Unknown
+Majestic City,20,stationary,mobile phone,FALSE,Unknown
+Liberty Plaza,20,driving,ID card,TRUE,Moderate
+Gangaramaya Temple,12,walking,mobile phone,FALSE,Unknown
+Kandy,10,walking,wallet,TRUE,Unknown
+Gangaramaya Temple,15,stationary,backpack,FALSE,Low
+Fort Railway Station,2,walking,mobile phone,TRUE,Unknown
+Colombo,8,stationary,keys,FALSE,Unknown
+Colombo,11,stationary,wallet,FALSE,Unknown
+Fort Railway Station,10,walking,keys,TRUE,Unknown
+Liberty Plaza,16,walking,keys,TRUE,Moderate
+Galle Face,9,walking,ID card,TRUE,High
+Fort Railway Station,1,stationary,water bottle,FALSE,Unknown
+Temple of the Tooth,6,driving,keys,FALSE,Unknown
+Gangaramaya Temple,17,walking,keys,FALSE,Unknown
+Colombo,20,driving,keys,TRUE,Unknown
+Galle Face,21,stationary,keys,FALSE,Unknown
+Temple of the Tooth,19,stationary,ID card,TRUE,Moderate
+Galle,13,walking,sunglasses,TRUE,Unknown
